@@ -1,0 +1,27 @@
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.exe.config
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\Acesso Rapido.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\ARBOControls.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\GongShell.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\bin\Debug\W3Common.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.vbprojResolveAssemblyReference.cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Interop.Shell32.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.vbproj.ResolveComReference.cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.AdicionarAtalho.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.Atalho.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.ExplorerIn.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.Form1.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.Login.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.Resources.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso_Rapido.Propriedades.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.vbproj.GenerateResource.Cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.TrustInfo.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Acesso Rapido\Acesso Rapido\obj\Debug\Acesso Rapido.pdb
